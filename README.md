@@ -9,11 +9,13 @@ How to utilize the power of Python language by doing things in "Pythonic" way.
 * Unicode [Pragmatic Unicode](http://nedbatchelder.com/text/unipain.html)
 * [Fast Python Slow Python](https://www.youtube.com/watch?v=7eeEf_rAJds)
 * Magic methods in Python [link](http://www.rafekettler.com/magicmethods.html)
-* [Function Decorators] (http://intermediatepythonista.com/the-function-ii-function-decorators)
+* [Function Decorators](http://intermediatepythonista.com/the-function-ii-function-decorators)
+* [Best Practices for eutiful Python Code](https://www.youtube.com/watch?v=wf-BqAjZb8M)
 
 
 ###### Important People to follow on social networks
 
+* [Guido van Rossum](https://twitter.com/gvanrossum)
 * [Jessica McKellar](http://web.mit.edu/jesstess/)
 * [Ned Batchelder](http://nedbatchelder.com/)
 * [David Beazley](http://www.dabeaz.com/blog.html)
