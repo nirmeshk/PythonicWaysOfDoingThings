@@ -10,7 +10,8 @@ How to utilize the power of Python language by doing things in "Pythonic" way.
 * [Fast Python Slow Python](https://www.youtube.com/watch?v=7eeEf_rAJds)
 * Magic methods in Python [link](http://www.rafekettler.com/magicmethods.html)
 * [Function Decorators](http://intermediatepythonista.com/the-function-ii-function-decorators)
-* [Best Practices for eutiful Python Code](https://www.youtube.com/watch?v=wf-BqAjZb8M)
+* [Best Practices for Beutiful Python Code](https://www.youtube.com/watch?v=wf-BqAjZb8M)
+* [Facts and Myths about Python names and values](http://nedbatchelder.com/text/names.html)
 
 
 ###### Important People to follow on social networks
