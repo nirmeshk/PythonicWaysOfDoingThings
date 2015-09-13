@@ -8,8 +8,9 @@ How to utilize the power of Python language by doing things in "Pythonic" way.
 * Iterators and generators are your friend. [How to Loop like a Native](http://nedbatchelder.com/text/iter.html)
 * Unicode [Pragmatic Unicode](http://nedbatchelder.com/text/unipain.html)
 * [Fast Python Slow Python](https://www.youtube.com/watch?v=7eeEf_rAJds)
-* Magic methods in Python [link](http://www.rafekettler.com/magicmethods.html)
+* [Magic methods in Python](http://www.rafekettler.com/magicmethods.html)
 * [Function Decorators](http://intermediatepythonista.com/the-function-ii-function-decorators)
+* [Lambda function: Nothing to be scared of](https://pythonconquerstheuniverse.wordpress.com/2011/08/29/lambda_tutorial/)
 * [Best Practices for Beutiful Python Code](https://www.youtube.com/watch?v=wf-BqAjZb8M)
 * [Facts and Myths about Python names and values](http://nedbatchelder.com/text/names.html)
 
